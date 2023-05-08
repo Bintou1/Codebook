@@ -12,5 +12,5 @@ I performed the following wrangling tasks:
 
 Files for the project: 
 - `SteakCook.csv` and `SteakCook.Rdata` replication data
-- `Codebook.R` with the r scrcode
+- `Codebook.R` with the r script
 - `Codebook .pdf` with the codebook
