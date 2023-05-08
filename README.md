@@ -11,6 +11,6 @@ I performed the following wrangling tasks:
 - `Appending` : I `mutated` multiples new variables as part of the main data set and also sub data frames. The mutaed variables served as factor variables and frequency tables in the data frames. 
 
 Files for the project: 
-- `SteakCook.csv` and `SteakCook.Rdata` replication data
+- `SteakCook.Rdata` replication data
 - `Codebook.R` with the r script
-- `Codebook .pdf` with the codebook
+- `Codebook .pdf` with the final codebook
