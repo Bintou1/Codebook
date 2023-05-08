@@ -6,7 +6,4 @@ My project looks at the relationship between XYZ.... I gathered data from XYZ...
 
 Files for the project: 
 - `my data.csv` replication data
-- `slidescript.Rmd` code for creating the slides
 - `index.html` with the output
-
-See the slides at URL. 
